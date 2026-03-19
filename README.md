@@ -133,7 +133,7 @@ Global content delivery systems
 
 E-commerce platforms
 
-#### Key Takeaways
+#### Security insights
 
 CloudFront improves performance and availability
 
