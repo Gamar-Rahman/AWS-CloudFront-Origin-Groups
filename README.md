@@ -1,5 +1,5 @@
 # AWS-CloudFront-Origin-Groups
-# AWS Lab: Understanding CloudFront Origin Groups
+# AWS project: Understanding CloudFront Origin Groups
 
 ## Overview
 This lab demonstrates how to use **Amazon CloudFront Origin Groups** to build a highly available and resilient content delivery architecture.
