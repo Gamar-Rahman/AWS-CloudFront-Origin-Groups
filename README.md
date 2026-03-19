@@ -2,7 +2,7 @@
 # AWS project: Understanding CloudFront Origin Groups
 
 ## Overview
-This lab demonstrates how to use **Amazon CloudFront Origin Groups** to build a highly available and resilient content delivery architecture.
+This project demonstrates how to use **Amazon CloudFront Origin Groups** to build a highly available and resilient content delivery architecture.
 
 We combine:
 - **Amazon S3 (Primary Origin)**
